@@ -1,4 +1,6 @@
-# Hey, I'm Lahari Gummalla 👋
+<p align="center">
+  <img src="assets/github banner.png" width="100%" alt="Lahari Gummalla | AI Automation, Data & Business Intelligence">
+</p>
 
 > *I don't just analyze data — I build the systems that make analysis happen automatically.*
 
